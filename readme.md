@@ -1,6 +1,7 @@
 # 🔐 SIEM Ortamı Kurulumu ve Brute-Force Saldırı Tespiti
 
 Bu projede açık kaynaklı güvenlik izleme aracı olan **Wazuh** kullanılarak bir **SIEM (Security Information and Event Management)** ortamı kurulmuş ve **Brute-Force saldırılarının tespiti** uygulanmıştır.
+Bu raporda teknik hatalar veya eksiklikler olabileceğini kabul ediyorum, çünkü öğrenme sürecindeyim.
 
 ## 🎯 Proje Hedefi
 
@@ -16,7 +17,6 @@ Bu projede açık kaynaklı güvenlik izleme aracı olan **Wazuh** kullanılarak
 - Hydra (Brute-Force aracı)
 - VMware Workstation
 - RDP bağlantısı
-- Bu raporda teknik hatalar veya eksiklikler olabileceğini kabul ediyorum, çünkü öğrenme sürecindeyim.
 
 ## 📌 Proje Adımları
 
