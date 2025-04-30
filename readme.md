@@ -16,6 +16,7 @@ Bu projede açık kaynaklı güvenlik izleme aracı olan **Wazuh** kullanılarak
 - Hydra (Brute-Force aracı)
 - VMware Workstation
 - RDP bağlantısı
+- Bu raporda teknik hatalar veya eksiklikler olabileceğini kabul ediyorum, çünkü öğrenme sürecindeyim.
 
 ## 📌 Proje Adımları
 
