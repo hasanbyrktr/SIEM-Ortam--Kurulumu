@@ -41,7 +41,10 @@ Her ne kadar projeyi başarıyla tamamlasam da, öğrenme yolculuğumun henüz b
 ## 📚 Kaynaklar
 
 - [Wazuh Documentation](https://documentation.wazuh.com)
-- [RDP Brute Force Logs](https://attack.mitre.org/techniques/T1110/001/)
+- [Wazuh Dashboard Kullanım Kılavuzu](https://documentation.wazuh.com/current/user-manual/wazuh-dashboard/index.html)
+- [Wazuh Manager Kullanım Kılavuzu](https://documentation.wazuh.com/current/user-manual/manager/index.html)
+- [Deploying Wazuh in a Corporate Environment - Sean Nanty (Medium)](https://medium.com/@nantysean/deploying-wazuh-in-a-corporate-environment-5138ac209f1c)
+- [Install and Configure Wazuh Agent on Windows - Songer.pro](https://www.songer.pro/install-and-configure-wazuh-agent-windows/)
 
 ---
 
